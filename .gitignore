@@ -1,0 +1,15 @@
+__pycache__/
+data
+tmp
+sources
+cleaned
+datmo
+dvc
+googlechallenge
+input
+mlruns
+.datmo
+.ipynb_checkpoints/
+features.txt
+featureimportance.png
+sacred/
